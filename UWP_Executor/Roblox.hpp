@@ -1,4 +1,5 @@
-#pragma once
+#pragma once hacks
+
 
 #include <string>
 #include <Windows.h>
